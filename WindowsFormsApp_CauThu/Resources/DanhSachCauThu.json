@@ -1,0 +1,42 @@
+[
+  {
+    "SoAo": 10,
+    "Ten": "Lionel Messi",
+    "QuocTich": "Argentina",
+    "ViTri": "RW",
+    "CLB": { "TenCLB": "Inter Miami" },
+    "Anh": "Resources/10.png"
+  },
+  {
+    "SoAo": 7,
+    "Ten": "Cristiano Ronaldo",
+    "QuocTich": "Bồ Đào Nha",
+    "ViTri": "ST",
+    "CLB": { "TenCLB": "Al Nassr" },
+    "Anh": "Resources/7.png"
+  },
+  {
+    "SoAo": 9,
+    "Ten": "Erling Haaland",
+    "QuocTich": "Na Uy",
+    "ViTri": "ST",
+    "CLB": { "TenCLB": "Manchester City" },
+    "Anh": "Resources/9.png"
+  },
+  {
+    "SoAo": 17,
+    "Ten": "Kevin De Bruyne",
+    "QuocTich": "Bỉ",
+    "ViTri": "CM",
+    "CLB": { "TenCLB": "Manchester City" },
+    "Anh": "Resources/17.png"
+  },
+  {
+    "SoAo": 11,
+    "Ten": "Mohamed Salah",
+    "QuocTich": "Ai Cập",
+    "ViTri": "RW",
+    "CLB": { "TenCLB": "Liverpool" },
+    "Anh": "Resources/11.png"
+  }
+]
